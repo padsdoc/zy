@@ -25,7 +25,7 @@
   <p>这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,<b>这里有个粗体字</b>这是一个很长很长的段落,这是一个很长很长的段落,<a href="http://ife.baidu.com"  target="_blank">这里有一个链接点击后打开新窗口链接到http://ife.baidu.com</a>这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落。</p>
  
   <h2><b>另一篇文章一级标题</b></h2>
-  <h3><b>文章二级标题</b></h3>
+  <h2><b>文章二级标题</b></h2>
   <p>文章作者&nbsp文章发表时间</p>
   <p>这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落</p>
   <p>换行了</p>
@@ -40,7 +40,7 @@
   </ul>
   
   <h2><b>图片</b></h2>
-  <ul>
+  <ul style="list-style: none">
 	<li>好看的图片<br><<img src="http://imgsrc.baidu.com/forum/pic/item/08ee313fb80e7becc5de9bef2e2eb9389a506ba3.jpg" height="200" width=auto>></li>
 	<li>好看的图片<br><<img src="http://imgsrc.baidu.com/forum/pic/item/08ee313fb80e7becc5de9bef2e2eb9389a506ba3.jpg" height="200" width=auto>></li>
 	<li>好看的图片<br><<img src="http://imgsrc.baidu.com/forum/pic/item/08ee313fb80e7becc5de9bef2e2eb9389a506ba3.jpg" height="200" width=auto>></li>
@@ -52,5 +52,14 @@
 	<li>好看的图片<br><<img src="http://imgsrc.baidu.com/forum/pic/item/08ee313fb80e7becc5de9bef2e2eb9389a506ba3.jpg" height="200" width=auto>></li>
 	<li>好看的图片<br><<img src="http://imgsrc.baidu.com/forum/pic/item/08ee313fb80e7becc5de9bef2e2eb9389a506ba3.jpg" height="200" width=auto>></li>
   </ul>
+  
+  <h2><b>最后一篇文章一级标题</b></h2>
+  <h2><b>文章二级标题</b></h2>
+  <p>文章作者&nbsp文章发表时间</p>
+  	<ol>
+		<li>排名1</li>
+		<li>排名2</li>
+		<li>排名3</li>
+	</ol>
 </body>
 </html>
